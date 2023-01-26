@@ -13,7 +13,8 @@ Because it **teaches teamwork** and <br> a grate way to ***stay fit***
      3.  G K S Ammal Akhin
  * All Stars
  * Ball Hogs 
- * Benders Shiny   
+ * Benders Shiny
+ [Meghala Details](https://github.com/Meghala22/assignment2-Anumolu/blob/main/AboutMe.md) 
  
  
         
