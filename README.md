@@ -14,7 +14,7 @@ Because it **teaches teamwork** and <br> a grate way to ***stay fit***
  * All Stars
  * Ball Hogs 
  * Benders Shiny
- 
+
  [Meghala Details](AboutMe.md) 
 
  ---
@@ -36,6 +36,7 @@ Because it **teaches teamwork** and <br> a grate way to ***stay fit***
 > The world is a stage, but the play is badly cast - *Oscar Wild*
 
 ---
+HTaccess Stack Overflow
 > [Deny except from specific IPs](https://css-tricks.com/snippets/htaccess/denying-allowing-access/)
   
 ```
