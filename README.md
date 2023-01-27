@@ -33,3 +33,15 @@ Because it **teaches teamwork** and <br> a grate way to ***stay fit***
 > I'm not superstitious but I'm a little stitious - *Michael Scott* 
 
 > The world is a stage, but the play is badly cast - *Oscar Wild*
+
+---
+> [Deny except from specific IPs](https://css-tricks.com/snippets/htaccess/denying-allowing-access/)
+  
+```
+     Order deny,allow
+     Deny from All
+     Allow from xxx.xxx.xxx.xxx
+     Allow from xxx.xxx.xxx.xxy
+
+```
+> [htaccess Stack Overflow](https://stackoverflow.com/questions/22012045/htaccess-rewrite-url-like-stack-overflow)                        
