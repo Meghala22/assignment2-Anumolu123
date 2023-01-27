@@ -14,7 +14,13 @@ Because it **teaches teamwork** and <br> a grate way to ***stay fit***
  * All Stars
  * Ball Hogs 
  * Benders Shiny
- [Meghala Details](https://github.com/Meghala22/assignment2-Anumolu/blob/main/AboutMe.md) 
- 
+ [Meghala Details](AboutMe.md) 
+
+ ---
+ # My fav places
+ ---
+ Country that i would visit in my vacation are India, Germany, Pakisthan, USA
+ | **Country_Names** | **Reason** | **Days to Spend** |
+
  
         
