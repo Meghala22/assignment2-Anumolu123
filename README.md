@@ -19,8 +19,8 @@ Because it **teaches teamwork** and <br> a grate way to ***stay fit***
  ---
  # My fav places
  ---
- Country that i would visit in my vacation are India, Germany, Pakisthan, USA
+ Country that i would visit in my vacation are India, Germany, Pakisthan, USA <br>
  | **Country_Names** | **Reason** | **Days to Spend** |
-
+ |      :---:        |     :---:  |     :---:         |
  
         
