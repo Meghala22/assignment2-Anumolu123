@@ -7,7 +7,7 @@ Because it **teaches teamwork** and <br> a grate way to ***stay fit***
 # Best volleyball team
 ---
 
-1. India players
+ 1. Titans Volleyball 
      1. Amit Balwan Singh
      2. Karthik Ashok
      3.  G K S Ammal Akhin
@@ -18,7 +18,7 @@ Because it **teaches teamwork** and <br> a grate way to ***stay fit***
 
  ---
  # My fav places
- ---
+ 
  Country that i would visit in my vacation are India, Germany, Pakisthan, Egypt <br>
  | **Country_Names** | **Reason** | **Days to Spend** |
  |      :---:        |     :---:  |     :---:         |
@@ -27,3 +27,9 @@ Because it **teaches teamwork** and <br> a grate way to ***stay fit***
  |  Pakisthan | Hunza Valley is a hidden gem. It is in secluded valley, located between Himalays |4 days|
  |  Egypt     | The pyramids complex of Giza is the jewel of Egypt | 6 days |
  
+---
+# Quotes
+
+> I'm not superstitious but I'm a little stitious - *Michael Scott* 
+
+> The world is a stage, but the play is badly cast - *Oscar Wild*
